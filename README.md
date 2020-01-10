@@ -15,16 +15,16 @@ In order to be able to use the macros you must have ImageJ or FIJI. The macros a
 
 Raw_metrics_generation_algorythm (images.cpp):
 
-  Subfolders and files needed to execute images.cppC++ script,this script generates raw metrics data files used then in PCA analysis.Extra information about inputs, outputs and options of the script is contained inthe same script.
+  Subfolders and files needed to execute images.cpp C++ script,this script generates raw metrics data files used then in PCA analysis.Extra information about inputs, outputs and options of the script is contained inthe same script.
 
 
 spatial_colonization_algorithm:
 
   - Attractor_points_generator (puntos.cpp):
-    - Subfolders and files needed to execute puntos.cppC++ script, this script generates a matrix of points data fileused then in SCA.cppas input. Extra information about inputs, outputs and options of the script is contained inthe same script.
+    - Subfolders and files needed to execute puntos.cpp C++ script, this script generates a matrix of points data fileused then in SCA.cppas input. Extra information about inputs, outputs and options of the script is contained inthe same script.
 
   - SCA (SCA.cpp):
-    - Subfolders and files needed to execute SCA.cppC++ script, this script develops thereal timeSCA and exports an image ready to be used by images.cppas input to generate metrics. Extra information about inputs, outputs and options of the script is contained inthe same script.
+    - Subfolders and files needed to execute SCA.cpp C++ script, this script develops thereal timeSCA and exports an image ready to be used by images.cppas input to generate metrics. Extra information about inputs, outputs and options of the script is contained inthe same script.
 
 
 
