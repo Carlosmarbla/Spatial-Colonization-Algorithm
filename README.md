@@ -1,5 +1,4 @@
 # Spatial-Colonization-Algorithm
-SCA 
 
 10/01/2020
 
@@ -13,12 +12,12 @@ Here you can find three different folders and a Manual.pdf on how to use spatial
 In order to be able to use the macros you must have ImageJ or FIJI. The macros are written and tested on a Linux machine. Therefore if using it with windows you may have to do slight changes in the macros.
 
 
-Raw_metrics_generation_algorythm (images.cpp):
+## Raw_metrics_generation_algorythm (images.cpp):
 
   Subfolders and files needed to execute images.cpp C++ script,this script generates raw metrics data files used then in PCA analysis.Extra information about inputs, outputs and options of the script is contained inthe same script.
 
 
-spatial_colonization_algorithm:
+## spatial_colonization_algorithm:
 
   - Attractor_points_generator (puntos.cpp):
     - Subfolders and files needed to execute puntos.cpp C++ script, this script generates a matrix of points data fileused then in SCA.cppas input. Extra information about inputs, outputs and options of the script is contained inthe same script.
