@@ -20,16 +20,16 @@ Raw_metrics_generation_algorythm (images.cpp):
 
 spatial_colonization_algorithm:
 
-  -Attractor_points_generator (puntos.cpp)
-    Subfolders and files needed to execute puntos.cppC++ script, this script generates a matrix of points data fileused then in SCA.cppas input. Extra information about inputs, outputs and options of the script is contained inthe same script.
+  - Attractor_points_generator (puntos.cpp):
+    - Subfolders and files needed to execute puntos.cppC++ script, this script generates a matrix of points data fileused then in SCA.cppas input. Extra information about inputs, outputs and options of the script is contained inthe same script.
 
-  -SCA (SCA.cpp)
-    Subfolders and files needed to execute SCA.cppC++ script, this script develops thereal timeSCA and exports an image ready to be used by images.cppas input to generate metrics. Extra information about inputs, outputs and options of the script is contained inthe same script.
+  - SCA (SCA.cpp):
+    - Subfolders and files needed to execute SCA.cppC++ script, this script develops thereal timeSCA and exports an image ready to be used by images.cppas input to generate metrics. Extra information about inputs, outputs and options of the script is contained inthe same script.
 
 
 
 Contacts for more information or questions:
 
-  -Carlos Martín Blanco email: carlant1991@gmail.com
+  - Carlos Martín Blanco email: carlant1991@gmail.com
   
-  -Tomás Navarro Álvarez email: tnavarroez@gmail.com
+  - Tomás Navarro Álvarez email: tnavarroez@gmail.com
